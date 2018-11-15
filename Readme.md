@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [EmployeeInfo.cs](./CS/EmployeeInfo/EmployeeInfo.cs)
+* [MyObjectDataSourceValidationService.cs](./CS/MailMergeExample/MyObjectDataSourceValidationService.cs) (VB: [MyObjectDataSourceValidationService.vb](./VB/MailMergeExample/MyObjectDataSourceValidationService.vb))
+* [Program.cs](./CS/MailMergeExample/Program.cs) (VB: [Program.vb](./VB/MailMergeExample/Program.vb))
+<!-- default file list end -->
 # How to validate ObjectDataSource in the Spreadsheet mail merge template
 
 
